@@ -1,0 +1,21 @@
+{
+  "name": "slider",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jomaf1010/snippets",
+  "authors": [
+    "jomaf1010 <fontanillajosephjohn@gmail.com>"
+  ],
+  "description": "Slider with ie8 support",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~1.11.2",
+    "bootstrap": "~3.1.1"
+  }
+}
